@@ -1,0 +1,21 @@
+
+table, td{
+    border:4px solid rgb(3, 3, 163) !important;
+    border-collapse: collapse;
+}
+
+.letter {
+    border-radius: 15px;
+    border: 2px outset black;
+    font-size: 28px;
+    line-height: 50px;
+    font-weight: bold;
+    height: 70px;
+    width: 70px;
+    box-shadow: 3px 3px;
+}
+
+#table {
+    width: 374px;
+    margin: 0 auto;
+}
